@@ -139,6 +139,7 @@ def main():
 
     sock = create_socket()
     print("Changes Made")
+    # change
     while True:
         print("\nOptions:\n1. Register\n2. Login\n3. Exit")
         option = input("Enter your choice: ")
