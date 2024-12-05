@@ -138,7 +138,7 @@ def main():
     print("\n\t>>>>>>>>>> Secure Chat Client <<<<<<<<<<\n\n")
 
     sock = create_socket()
-
+    print("Changes Made")
     while True:
         print("\nOptions:\n1. Register\n2. Login\n3. Exit")
         option = input("Enter your choice: ")
